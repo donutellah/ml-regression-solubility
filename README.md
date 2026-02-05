@@ -1,4 +1,4 @@
-# ML Logs Prediction
+# ML LogS Prediction
 
 This project is my **first machine learning (ML) project** using Python.  
 It focuses on predicting the **aqueous solubility (logS)** of molecules based on molecular descriptors.  
